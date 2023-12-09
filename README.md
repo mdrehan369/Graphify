@@ -1,10 +1,10 @@
 # Graphify
 
-Graphify is a simple tool:hammer: for visualizing:bulb: and analyzing information:chart_with_upwards_trend: for applications such as Machine Learning and Deep Learning.
+Graphify is a simple tool :hammer: for visualizing :bulb: and analyzing information :chart_with_upwards_trend: for applications such as Machine Learning and Deep Learning.
 
 It is critical to understand the link between every attribute and another attribute or target when developing a model to predict or categorize anything given a number of features contained in a dataset. With a single click, you can plot all of the graphs between each feature.
 
-Graphify is constructed with Python:snake: and its associated libraries. The front end is built with CustomKinter, and the graphs are created with Matplotlib:chart_with_upwards_trend:.
+Graphify is constructed with Python :snake: and its associated libraries. The front end is built with CustomKinter, and the graphs are created with Matplotlib :chart_with_upwards_trend:.
 
 ## Installation
 
